@@ -1,36 +1,36 @@
 #卷毛鼠
-https://cf.jmsooo.com
+- DOMAIN-SUFFIX,https://cf.jmsooo.com
 #ACA机场服
-https://emby.aca.best
-https://porn.aca.best
+- DOMAIN-SUFFIX,https://emby.aca.best
+- DOMAIN-SUFFIX,https://porn.aca.best
 #peach
-http://embymv.tk
+- DOMAIN-SUFFIX,http://embymv.tk
 #hxd
-https://cdn.bili.rip
-https://bili.bili.rip
-https://cf.bili.rip
+- DOMAIN-SUFFIX,https://cdn.bili.rip
+- DOMAIN-SUFFIX,https://bili.bili.rip
+- DOMAIN-SUFFIX,https://cf.bili.rip
 #橘子
-http://cf.otv.icu
+- DOMAIN-SUFFIX,http://cf.otv.icu
 #终点站
-https://pub1.emby.wtf
-https://pub2.emby.wtf
-https://pub3.emby.wtf
+- DOMAIN-SUFFIX,https://pub1.emby.wtf
+- DOMAIN-SUFFIX,https://pub2.emby.wtf
+- DOMAIN-SUFFIX,https://pub3.emby.wtf
 #pornemby
-https://pornemby.club
+- DOMAIN-SUFFIX,https://pornemby.club
 #misty
-https://misty.cx
+- DOMAIN-SUFFIX,https://misty.cx
 #纸片人
-https://embyplus.org
+- DOMAIN-SUFFIX,https://embyplus.org
 #pilipili
-https://emby.pilipiliultra.top
-https://emby.pilipiliultra.com
+- DOMAIN-SUFFIX,https://emby.pilipiliultra.top
+- DOMAIN-SUFFIX,https://emby.pilipiliultra.com
 #不给看
-https://s2.bgka.me:
-https://c.emby.pro
-https://zwei.bgka.me
+- DOMAIN-SUFFIX,https://s2.bgka.me
+- DOMAIN-SUFFIX,https://c.emby.pro
+- DOMAIN-SUFFIX,https://zwei.bgka.me
 #垃圾服
-http://cf.xmsl.org/
+- DOMAIN-SUFFIX,http://cf.xmsl.org/
 #paul
-http://cf.imetyou.top
-http://emby.imetyou.top
-http://sg.imetyou.top
+- DOMAIN-SUFFIX,http://cf.imetyou.top
+- DOMAIN-SUFFIX,http://emby.imetyou.top
+- DOMAIN-SUFFIX,http://sg.imetyou.top
