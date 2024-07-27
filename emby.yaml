@@ -23,7 +23,7 @@ payload:
   - DOMAIN-SUFFIX,pub2cf.emby.wtf:443
   - DOMAIN-SUFFIX,pub3cf.emby.wtf:443
 #pornemby
-  - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,pornemby.com
 #misty
   - DOMAIN-SUFFIX,misty.cx
 #纸片人
