@@ -11,9 +11,9 @@ payload:
 #peach
   - DOMAIN-SUFFIX,embymv.tk
 #hxd
-  - DOMAIN-SUFFIX,hxd.as174.com
+#  - DOMAIN-SUFFIX,hxd.as174.com
   - DOMAIN-SUFFIX,cf.bili.rip
-  - DOMAIN-SUFFIX,emby.as174.com
+#  - DOMAIN-SUFFIX,emby.as174.com
 #橘子
   - DOMAIN-SUFFIX,cf.otv.icu
 #终点站
